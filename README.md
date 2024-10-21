@@ -6,6 +6,7 @@ Este projeto demonstra como criar um carrossel de avaliações utilizando a bibl
 
 - **HTML** para a estruturação do conteúdo.
 - **CSS** para estilização da página.
+- **JavaScript** para estruturar carrosel com a biblioteca **Swiper JS**.
 
 ## 🚀 Como Acessar 
 
